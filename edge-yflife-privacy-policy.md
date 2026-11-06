@@ -1,7 +1,7 @@
 # Edge-YFLife Privacy Policy
 
-**App Version:** 1.0.0 (build 1)  
-**Last Updated:** November 5, 2026
+**App Version:** 1.2.0 (build 3)  
+**Last Updated:** November 6, 2026
 
 ---
 
